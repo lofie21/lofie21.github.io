@@ -29,6 +29,7 @@ A full list is available on the [Publications](/publications/) page, and my comp
 
 ## Contact
 
-Department of Economics, Sejong University<br>
-39, Namdaemun-ro, Jung-gu, Seoul, Republic of Korea<br>
+Room 701B, Gwanggaeto Building<br>
+[Department of Economics, Sejong University](https://www.sejong.ac.kr/kor/college/economics.do)<br>
+209 Neungdong-ro, Gwangjin-gu, Seoul 05006, Republic of Korea<br>
 Email: [sclee@sejong.ac.kr](mailto:sclee@sejong.ac.kr)
