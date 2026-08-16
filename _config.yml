@@ -24,14 +24,14 @@ author:
   name             : "Seungcheol Lee"
   pronouns         : # example: "she/her"
   bio              : "Macroeconomics, monetary policy, and heterogeneous-agent models. PhD in Economics, UCL."
-  location         : "Seoul, Republic of Korea"
+  location         : "Gwangjin-gu, Seoul, Korea"
   employer         : "Sejong University"
   uri              : # URL
   email            : "sclee@sejong.ac.kr"
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # e.g. "https://scholar.google.com/citations?user=XXXXXXXXXXXX"
+  googlescholar    : "https://scholar.google.com/citations?user=p6d6oOQAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # e.g. "https://orcid.org/0000-0000-0000-0000"
@@ -322,4 +322,4 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development  
+    envs: development
