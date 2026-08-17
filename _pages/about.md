@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Economics at **Sejong University**. Before joining Sejong University in September 2026, I spent over a decade at the **Bank of Korea**, most recently as a Senior Economist, where I also provided strategic advisory support for the BIS Committee on the Global Financial System (CGFS).
+I am an Assistant Professor in the Department of Economics at **Sejong University**. Before joining Sejong University in September 2026, I spent nearly two decades at the **Bank of Korea**, most recently as a Senior Economist, where I also provided strategic advisory support for the BIS Committee on the Global Financial System (CGFS).
 
 I received my PhD in Economics from **University College London (UCL)** in 2020.
 
